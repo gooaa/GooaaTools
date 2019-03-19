@@ -1,0 +1,11 @@
+framework module MyTools {
+  umbrella header "MyTools.h"
+
+  export *
+  module * { export * }
+}
+
+module MyTools.Swift {
+    header "MyTools-Swift.h"
+    requires objc
+}
