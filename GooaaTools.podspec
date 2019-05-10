@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name         = "GooaaTools"
-spec.version      = "1.0.4"
+spec.version      = "1.0.5"
 spec.summary      = "A TestFramework"
 spec.homepage     = "https://github.com/gooaa/GooaaTools"
 spec.description  = "framework 实践测试, 临时性项目"
